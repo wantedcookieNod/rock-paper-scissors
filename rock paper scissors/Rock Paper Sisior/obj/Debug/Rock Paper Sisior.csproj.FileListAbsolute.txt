@@ -1,0 +1,18 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Rock Paper Sisior\Rock Paper Sisior\bin\Debug\Rock Paper Sisior.exe.config
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Rock Paper Sisior\Rock Paper Sisior\obj\Debug\Rock Paper Sisior.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Rock Paper Sisior\Rock Paper Sisior\obj\Debug\Rock_Paper_Sisior.Form1.resources
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Rock Paper Sisior\Rock Paper Sisior\obj\Debug\Rock_Paper_Sisior.Properties.Resources.resources
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Rock Paper Sisior\Rock Paper Sisior\obj\Debug\Rock Paper Sisior.csproj.GenerateResource.Cache
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Rock Paper Sisior\Rock Paper Sisior\bin\Debug\Rock Paper Sisior.exe
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Rock Paper Sisior\Rock Paper Sisior\bin\Debug\Rock Paper Sisior.pdb
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Rock Paper Sisior\Rock Paper Sisior\obj\Debug\Rock Paper Sisior.exe
+C:\Users\LENOVO\documents\visual studio 2015\Projects\Rock Paper Sisior\Rock Paper Sisior\obj\Debug\Rock Paper Sisior.pdb
+C:\Users\LENOVO\Desktop\New folder\Rock Paper Sisior\Rock Paper Sisior\bin\Debug\Rock Paper Sisior.exe.config
+C:\Users\LENOVO\Desktop\New folder\Rock Paper Sisior\Rock Paper Sisior\bin\Debug\Rock Paper Sisior.exe
+C:\Users\LENOVO\Desktop\New folder\Rock Paper Sisior\Rock Paper Sisior\bin\Debug\Rock Paper Sisior.pdb
+C:\Users\LENOVO\Desktop\New folder\Rock Paper Sisior\Rock Paper Sisior\obj\Debug\Rock Paper Sisior.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\New folder\Rock Paper Sisior\Rock Paper Sisior\obj\Debug\Rock_Paper_Sisior.Form1.resources
+C:\Users\LENOVO\Desktop\New folder\Rock Paper Sisior\Rock Paper Sisior\obj\Debug\Rock_Paper_Sisior.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\New folder\Rock Paper Sisior\Rock Paper Sisior\obj\Debug\Rock Paper Sisior.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\New folder\Rock Paper Sisior\Rock Paper Sisior\obj\Debug\Rock Paper Sisior.exe
+C:\Users\LENOVO\Desktop\New folder\Rock Paper Sisior\Rock Paper Sisior\obj\Debug\Rock Paper Sisior.pdb
